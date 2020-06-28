@@ -1,0 +1,11 @@
+C:\Users\UO263737\source\repos\EjemploVehiculosMecanicos\EjemploVehiculosMecanicos\bin\Debug\netcoreapp2.1\EjemploVehiculosMecanicos.deps.json
+C:\Users\UO263737\source\repos\EjemploVehiculosMecanicos\EjemploVehiculosMecanicos\bin\Debug\netcoreapp2.1\EjemploVehiculosMecanicos.runtimeconfig.json
+C:\Users\UO263737\source\repos\EjemploVehiculosMecanicos\EjemploVehiculosMecanicos\bin\Debug\netcoreapp2.1\EjemploVehiculosMecanicos.runtimeconfig.dev.json
+C:\Users\UO263737\source\repos\EjemploVehiculosMecanicos\EjemploVehiculosMecanicos\bin\Debug\netcoreapp2.1\EjemploVehiculosMecanicos.dll
+C:\Users\UO263737\source\repos\EjemploVehiculosMecanicos\EjemploVehiculosMecanicos\bin\Debug\netcoreapp2.1\EjemploVehiculosMecanicos.pdb
+C:\Users\UO263737\source\repos\EjemploVehiculosMecanicos\EjemploVehiculosMecanicos\obj\Debug\netcoreapp2.1\EjemploVehiculosMecanicos.csprojAssemblyReference.cache
+C:\Users\UO263737\source\repos\EjemploVehiculosMecanicos\EjemploVehiculosMecanicos\obj\Debug\netcoreapp2.1\EjemploVehiculosMecanicos.csproj.CoreCompileInputs.cache
+C:\Users\UO263737\source\repos\EjemploVehiculosMecanicos\EjemploVehiculosMecanicos\obj\Debug\netcoreapp2.1\EjemploVehiculosMecanicos.AssemblyInfoInputs.cache
+C:\Users\UO263737\source\repos\EjemploVehiculosMecanicos\EjemploVehiculosMecanicos\obj\Debug\netcoreapp2.1\EjemploVehiculosMecanicos.AssemblyInfo.cs
+C:\Users\UO263737\source\repos\EjemploVehiculosMecanicos\EjemploVehiculosMecanicos\obj\Debug\netcoreapp2.1\EjemploVehiculosMecanicos.dll
+C:\Users\UO263737\source\repos\EjemploVehiculosMecanicos\EjemploVehiculosMecanicos\obj\Debug\netcoreapp2.1\EjemploVehiculosMecanicos.pdb
